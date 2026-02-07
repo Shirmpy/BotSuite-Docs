@@ -21,7 +21,7 @@ layout:
 
 Thank you for choosing BotSuite! We're excited to help you on your journey to creating your own custom bot! Here you'll find everything you need to keep your server active, organized and fun.
 
-Ready to get your custom bot? Get now [here!](https://discord.gg/kfFvHSN7NU)
+Ready to get your custom bot? Get now [**here!**](https://discord.gg/kfFvHSN7NU)
 
 ### Example Bot
 

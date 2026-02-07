@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Welcome to BotSuite 🧩](README.md)
-* [Terms of Service](terms.md)
-* [Copy of Security & Privacy](privacy.md)
+* [Guidelines & Privacy](guidelines-and-privacy.md)
 
 ## Getting Started
 
