@@ -23,7 +23,7 @@ metaLinks:
 
 # Purchase
 
-Do you want your own custom all-in-one bot, that has all the [features](quickstart.md) to run your server smoothly?
+Do you want your own custom all-in-one bot, that has all the [features](features.md) to run your server smoothly?
 
 #### Purchase your bot [here](https://discord.gg/kfFvHSN7NU).
 
