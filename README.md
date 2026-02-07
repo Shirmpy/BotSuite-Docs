@@ -19,11 +19,9 @@ layout:
 
 # Welcome to BotSuite 🧩
 
-Thank you for choosing BotSuite! We're excited to help you on your journey to creating your own custom bot! Here you'll find everything you need to get your bot.
+Thank you for choosing BotSuite! We're excited to help you on your journey to creating your own custom bot! Here you'll find everything you need to keep your server active, organized and fun.
 
 Ready to get your custom bot? Get now [here!](https://discord.gg/kfFvHSN7NU)
-
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
 ### Example Bot
 
