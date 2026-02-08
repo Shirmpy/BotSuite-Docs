@@ -25,8 +25,8 @@ metaLinks:
 
 Do you want your own custom all-in-one bot, that has all the [features](features.md) to run your server smoothly?
 
-#### Purchase your bot [here](https://discord.gg/kfFvHSN7NU).
+#### Purchase your bot [here](https://discord.gg/cnfMYPWajJ).
 
 <h3 align="center">Enhance your community’s experience.</h3>
 
-<h2 align="center"><a href="https://discord.gg/kfFvHSN7NU">Get Now!</a></h2>
+<h2 align="center"><a href="https://discord.gg/cnfMYPWajJ">Get Now!</a></h2>
