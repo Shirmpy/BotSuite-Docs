@@ -15,17 +15,22 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 metaLinks:
   alternates:
-    - >-
-      https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/publish-your-docs
+    - /broken/spaces/yE16Xb3IemPxJWydtPOj/pages/QPzbTvC6XsT5gERiU43E
 ---
 
 # Purchase
 
 Do you want your own custom all-in-one bot, that has all the [features](features.md) to run your server smoothly?
 
-#### Purchase your bot [here](https://discord.gg/cnfMYPWajJ).
+#### Purchase your bot today at [BotSuite](https://discord.gg/cnfMYPWajJ). Starting at only $6 to lifetime.
 
 <h3 align="center">Enhance your community’s experience.</h3>
 
