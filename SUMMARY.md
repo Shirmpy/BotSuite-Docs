@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Pibun 🐻‍❄️](README.md)
+* [Welcome to Pownin 🐧](README.md)
 * [Guidelines & Privacy](guidelines-and-privacy.md)
 
 ## Getting Started
