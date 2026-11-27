@@ -30,7 +30,7 @@ metaLinks:
 
 Do you want your own custom all-in-one bot, that has all the [features](features.md) to run your server smoothly?
 
-#### Purchase your bot today at [BotSuite](https://discord.gg/kfFvHSN7NU). Starting at only $6 to lifetime.
+#### Purchase your bot today at [Pibun](https://discord.gg/kfFvHSN7NU). Starting at only $5 to lifetime.
 
 <h3 align="center">Enhance your community’s experience.</h3>
 

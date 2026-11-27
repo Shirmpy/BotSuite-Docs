@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to BotSuite 🧩](README.md)
+* [Welcome to Pibun 🐻‍❄️](README.md)
 * [Guidelines & Privacy](guidelines-and-privacy.md)
 
 ## Getting Started

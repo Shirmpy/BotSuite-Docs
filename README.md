@@ -1,5 +1,5 @@
 ---
-description: We are happy you found your way to BotSuite documentation!
+description: We are happy you found your way to Pibun documentation!
 icon: hand-wave
 layout:
   width: default
@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# Welcome to BotSuite 🧩
+# Welcome to Pibun 🐻‍❄️
 
 Thank you for choosing BotSuite! We're excited to help you on your journey to creating your own custom bot! Here you'll find everything you need to keep your server active, organized and fun.
 
