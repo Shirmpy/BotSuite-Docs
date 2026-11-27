@@ -31,4 +31,4 @@ Ready to get your custom bot? Get now [**here!**](https://discord.gg/kfFvHSN7NU)
 
 ### Example Bot
 
-<div align="left"><figure><img src=".gitbook/assets/Screenshot 2026-02-06 155125.png" alt="" width="445"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/Screenshot 2026-11-27 185959.png" alt=""><figcaption></figcaption></figure></div>
